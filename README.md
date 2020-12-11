@@ -11,7 +11,7 @@ Preferred Resolution : 1080 x 2160: 440dpi
 ```
 
 #### Download the Application
-> [Click Here](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) to Download **Weather**
+- To download the application [click here](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk).
 
 #### Run the Application on a Online Simulator
 You can run the application in BrowserStack. BrowserStack is a cloud web and mobile testing platform that allows the users to run live mobiles apps on it.
