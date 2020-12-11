@@ -16,12 +16,12 @@ Preferred Resolution : 1080 x 2160: 440dpi
 #### Run the Application on a Online Simulator
 You can run the application in BrowserStack. BrowserStack is a cloud web and mobile testing platform that allows the users to run live mobiles apps on it.
 
-How To Use Browser Stack ?
-- Go to the official site of [Browser Stacks](https://www.browserstack.com/users/sign_in).
-- Now create an account and sign in.
-- Click on **App Live** and select **Upload your App**, then click on **Upload**.
-- Select the Weather apk(weather-v0.1.apk) that you downloaded.
-- After the upload has completed, the application will be ready to run.
+- How To Use Browser Stack ?
+  - Go to the official site of [Browser Stacks](https://www.browserstack.com/users/sign_in).
+  - Now create an account and sign in.
+  - Click on **App Live** and select **Upload your App**, then click on **Upload**.
+  - Select the Weather apk(weather-v0.1.apk) that you downloaded.
+  - After the upload has completed, the application will be ready to run.
 
 ### Requirements
 
