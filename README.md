@@ -10,10 +10,10 @@ You can setup the application by downloading and then running the application in
 Preferred Resolution : 1080 x 2160: 440dpi
 ```
 
-##### Download the Application
+#### Download the Application
 > [Click Here](https://github.com/shubhadeepmandal394/weather-application/blob/main/assets/apk/weather-v0.1.apk) to Download **Weather**
 
-##### Run the Application on a Online Simulator
+#### Run the Application on a Online Simulator
 You can run the application in BrowserStack. BrowserStack is a cloud web and mobile testing platform that allows the users to run live mobiles apps on it.
 
 How To Use Browser Stack ?
@@ -31,5 +31,14 @@ How To Use Browser Stack ?
 - Android SDK 21 or newer
 - AndroidX
 
+### Screenshots
+<table>
+  <tr>
+    <td><img src="/assets/img/screenshot_new_delhi.jpg" height="500" weidth="1000"></td>
+    <td><img src="/assets/img/screenshot_nainital.jpg" height="500" weidth="1000"></td>
+    <td><img src="/assets/img/screenshot_new_york.jpg" height="500" weidth="1000"></td>
+    <td><img src="/assets/img/screenshot_washington_dc.jpg" height="500" weidth="1000"></td>
+  </tr>
+ </table>
 
 Loved the app ? [Support Me](https://paypal.me/shubhadeepmandal394?locale.x=en_GB) for my next project 😇
