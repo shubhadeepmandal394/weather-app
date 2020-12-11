@@ -32,12 +32,12 @@ How To Use Browser Stack ?
 - AndroidX
 
 ### Screenshots
+The screenshots are taken on **Xaomi Redmi Note 5 Pro** on **11th December, 2020** at around **18:20 hrs** at **Kolkata, India**.
 <table>
   <tr>
     <td><img src="/assets/img/screenshot_new_delhi.jpg" height="500" weidth="1000"></td>
-    <td><img src="/assets/img/screenshot_nainital.jpg" height="500" weidth="1000"></td>
-    <td><img src="/assets/img/screenshot_new_york.jpg" height="500" weidth="1000"></td>
     <td><img src="/assets/img/screenshot_washington_dc.jpg" height="500" weidth="1000"></td>
+    <td><img src="/assets/img/screenshot_new_york.jpg" height="500" weidth="1000"></td>
   </tr>
  </table>
 
