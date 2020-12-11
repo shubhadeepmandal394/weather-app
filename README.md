@@ -11,7 +11,7 @@ Preferred Resolution : 1080 x 2160: 440dpi
 ```
 
 #### Download the Application
-> [Click Here](https://github.com/shubhadeepmandal394/weather-application/blob/main/assets/apk/weather-v0.1.apk) to Download **Weather**
+> [Click Here](https://github.com/shubhadeepmandal394/weather-application/blob/main/assets/apk/weather-v1.0.apk) to Download **Weather**
 
 #### Run the Application on a Online Simulator
 You can run the application in BrowserStack. BrowserStack is a cloud web and mobile testing platform that allows the users to run live mobiles apps on it.
@@ -20,7 +20,7 @@ You can run the application in BrowserStack. BrowserStack is a cloud web and mob
   - Go to the official site of [Browser Stacks](https://www.browserstack.com/users/sign_in).
   - Now create an account and sign in.
   - Click on **App Live** and select **Upload your App**, then click on **Upload**.
-  - Select the Weather apk(weather-v0.1.apk) that you downloaded.
+  - Select the Weather apk(weather-v1.0.apk) that you downloaded.
   - After the upload has completed, the application will be ready to run.
 
 ### Requirements
