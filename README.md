@@ -32,7 +32,7 @@ You can run the application in BrowserStack. BrowserStack is a cloud web and mob
 - AndroidX
 
 ### Screenshots
-The screenshots are taken on **Xaomi Redmi Note 5 Pro** on **11th December, 2020** at around **18:20 hrs** at **Kolkata, India**.
+The screenshots are taken on **Xaomi Redmi Note 5 Pro** on **11th December, 2020** at around **18:20 hrs.
 <table>
   <tr>
     <td><img src="/assets/img/screenshot_new_delhi.jpg" height="500" weidth="1000"></td>
