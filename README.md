@@ -41,4 +41,4 @@ The screenshots are taken on **Xaomi Redmi Note 5 Pro** on **11th December, 2020
   </tr>
  </table>
 
-Loved the app ? then (buy me a coffee](https://www.buymeacoffee.com/shubhadeep394) 😉
+Loved the app ? then [buy me a coffee](https://www.buymeacoffee.com/shubhadeep394) 😉
