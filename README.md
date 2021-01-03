@@ -9,7 +9,7 @@ Preferred Resolution is ```1080 x 2160: 440dpi```. Resolutions other than the pr
 
 #### Download the apk
 
-- To download the game's apk [click here](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk)
+- To download the app's apk [click here](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk)
 
 #### Run the Application Online
 
@@ -17,7 +17,7 @@ Preferred Resolution is ```1080 x 2160: 440dpi```. Resolutions other than the pr
   
 #### Run the Application Offline
 
-- To run the application offline, try running it on [Android Emulators](https://developer.android.com/studio/run/emulator) (such as that provided with Android Studio), just [download the apk](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) and simply drag the apk and drop it in the emulator, it will automatically install the game and will become availabe to you for playing in no time.
+- To run the application offline, try running it on [Android Emulators](https://developer.android.com/studio/run/emulator) (such as that provided with Android Studio), just [download the apk](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) and simply drag the apk and drop it in the emulator, it will automatically install the application and will become availabe to you for use in no time.
 
 ### Requirements
 
