@@ -5,7 +5,7 @@
 Weather is a android mobile application developed by Shubhadeep Mandal to view the weather condition of a particular city(one at a time). It accepts the name of any city in the world as an input and displays the weather description, maximum/average/minimum temperature(in °C), pressure(in hPa), humidity(in %), and wind speed(in m/s).
 
 You can setup the application by downloading and then running it on your physical android device or on online/offline android emulators. 
-Preferred Resolution is ```1080 x 2160: 440dpi```. Resolutions other than the preffered one may cause some onscreen components to misbehave.
+Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffered one may cause some onscreen components to misbehave.
 
 #### Download the apk
 
