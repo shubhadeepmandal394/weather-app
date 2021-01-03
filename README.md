@@ -7,19 +7,21 @@ Weather is a android mobile application developed by Shubhadeep Mandal to view t
 You can setup the application by downloading and then running it on your physical android device or on online/offline android emulators. 
 Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffered one may cause some onscreen components to misbehave.
 
+#### Where to Run the Application ?
+
+1. To run the application on online emulator [click here](https://appetize.io/app/1t94kx7rpr02c7vmw1y4b777b4?device=pixel4&scale=75&orientation=portrait&osVersion=10.0)
+
+2. To run the application on offline emulator, try running it on [Android Emulators](https://developer.android.com/studio/run/emulator) (such as that provided with Android Studio), just [download the apk](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) and simply drag the apk and drop it in the emulator, it will automatically install the application and the app will become availabe to you for use in no time.
+
+3. To run the application on your physical android device, simply [download the apk](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) and install it.
+
+**NOTE: *For better experience install the game on your physical android device.***
+
 #### Download the apk
 
 - To download the app's apk [click here](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk)
 
-#### Run the Application Online
-
-- To run the application online [click here](https://appetize.io/app/1t94kx7rpr02c7vmw1y4b777b4?device=pixel4&scale=75&orientation=portrait&osVersion=10.0)
-  
-#### Run the Application Offline
-
-- To run the application offline, try running it on [Android Emulators](https://developer.android.com/studio/run/emulator) (such as that provided with Android Studio), just [download the apk](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) and simply drag the apk and drop it in the emulator, it will automatically install the application and will become availabe to you for use in no time.
-
-### Requirements
+#### Requirements
 
 - JDK 8
 - Latest Android SDK tools
@@ -27,7 +29,7 @@ Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffe
 - Android SDK 21 or newer
 - AndroidX
 
-### Screenshots
+#### Screenshots
 The screenshots are taken on **Xaomi Redmi Note 5 Pro** on **11th December, 2020** at around **18:20 hrs**.
 <table>
   <tr>
