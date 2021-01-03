@@ -4,24 +4,20 @@
 
 Weather is a android mobile application developed by Shubhadeep Mandal to view the weather condition of a particular city(one at a time). It accepts the name of any city in the world as an input and displays the weather description, maximum/average/minimum temperature(in °C), pressure(in hPa), humidity(in %), and wind speed(in m/s).
 
-### Setting up the Application
-You can setup the application by downloading and then running the application in your physical android device or on online/offline android emulators.
-```
-Preferred Resolution : 1080 x 2160: 440dpi
-```
+You can setup the application by downloading and then running it on your physical android device or on online/offline android emulators. 
+Preferred Resolution is ```1080 x 2160: 440dpi```. Resolutions other than the preffered one may cause some onscreen components to misbehave.
 
-#### Download the Application
-- To download the application [click here](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk).
+#### Download the apk
 
-#### Run the Application on a Online Simulator
-You can run the application in BrowserStack. BrowserStack is a cloud web and mobile testing platform that allows the users to run live mobiles apps on it.
+- To download the game's apk [click here](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk)
 
-- How To Use Browser Stack ?
-  - Go to the official site of [Browser Stacks](https://www.browserstack.com/users/sign_in).
-  - Now create an account and sign in.
-  - Click on **App Live** and select **Upload your App**, then click on **Upload**.
-  - Select the Weather apk(weather-v1.0.apk) that you downloaded.
-  - After the upload has completed, the application will be ready to run.
+#### Run the Application Online
+
+- To run the application online [click here](https://appetize.io/app/1t94kx7rpr02c7vmw1y4b777b4?device=pixel4&scale=75&orientation=portrait&osVersion=10.0)
+  
+#### Run the Application Offline
+
+- To run the application offline, try running it on [Android Emulators](https://developer.android.com/studio/run/emulator) (such as that provided with Android Studio), just [download the apk](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) and simply drag the apk and drop it in the emulator, it will automatically install the game and will become availabe to you for playing in no time.
 
 ### Requirements
 
