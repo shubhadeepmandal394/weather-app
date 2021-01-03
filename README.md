@@ -15,7 +15,7 @@ Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffe
 
 3. To run the application on your physical android device, simply [download the apk](https://github.com/shubhadeepmandal394/weather-application/raw/main/assets/apk/weather-v1.0.apk) and install it.
 
-**NOTE: *For better experience install the game on your physical android device.***
+**NOTE: *For better experience install the application on your physical android device.***
 
 #### Download the apk
 
